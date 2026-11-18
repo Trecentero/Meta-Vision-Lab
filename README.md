@@ -38,7 +38,8 @@ See `/Docs/01-PS5-Capture.md` for full setup.
 ## Author
 
 David Ramirez - Costa Rica
-Beginner in Unity, learning in public. All progress documented here.
+Unity learning in public. All progress documented here.
 
 ## License
 MIT
+Related projects: OpenIPC-Quest-Vision (wireless) - HDD-Rescue-AI
